@@ -1,0 +1,1815 @@
+[
+  {
+    "id": "shop_001",
+    "lot_id": "GF-01",
+    "lots": [
+      "GF-01"
+    ],
+    "primary_lot": "GF-01",
+    "name": "Machines",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Gadgets & Electronics",
+    "price_range": "RM 200 - RM 6,000",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-01_MACHINES.png"
+  },
+  {
+    "id": "shop_002",
+    "lot_id": "GF-02",
+    "lots": [
+      "GF-02"
+    ],
+    "primary_lot": "GF-02",
+    "name": "Siti Khadijah",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Modest & Traditional Fashion",
+    "price_range": "RM 60 - RM 220",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-02_SITI_KHADIJAH.png"
+  },
+  {
+    "id": "shop_003",
+    "lot_id": "GF-03 & 03A",
+    "lots": [
+      "GF-03",
+      "GF-03A"
+    ],
+    "primary_lot": "GF-03",
+    "name": "Watsons",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Health & Beauty",
+    "sub_category": "Pharmacy & Personal Care",
+    "price_range": "RM 20 - RM 100",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-03_WATSONS.png"
+  },
+  {
+    "id": "shop_004",
+    "lot_id": "GF-05",
+    "lots": [
+      "GF-05"
+    ],
+    "primary_lot": "GF-05",
+    "name": "A-Look",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Accessories",
+    "sub_category": "Fashion Accessories",
+    "price_range": "RM 20 - RM 150",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-05_A_LOOK.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_005",
+    "lot_id": "GF-06",
+    "lots": [
+      "GF-06"
+    ],
+    "primary_lot": "GF-06",
+    "name": "myNews.com",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Convenience Store",
+    "price_range": "RM 5 - RM 30",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-06_MYNEWS_COM.png"
+  },
+  {
+    "id": "shop_006",
+    "lot_id": "GF-07",
+    "lots": [
+      "GF-07"
+    ],
+    "primary_lot": "GF-07",
+    "name": "Annie1",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Food & Beverages",
+    "price_range": "RM 15 - RM 40",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-07_ANNIE1.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_007",
+    "lot_id": "GF-08",
+    "lots": [
+      "GF-08"
+    ],
+    "primary_lot": "GF-08",
+    "name": "Mee Hiris China Muslim",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 15 - RM 35",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-08_MEE_HIRIS_CHINA_MUSLIM.png"
+  },
+  {
+    "id": "shop_008",
+    "lot_id": "GF-09 & GF-10",
+    "lots": [
+      "GF-09",
+      "GF-10"
+    ],
+    "primary_lot": "GF-09",
+    "name": "TiQaco",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Accessories",
+    "sub_category": "Fashion Accessories",
+    "price_range": "RM 20 - RM 150",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-09_TIQACO.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_009",
+    "lot_id": "GF-11",
+    "lots": [
+      "GF-11"
+    ],
+    "primary_lot": "GF-11",
+    "name": "Gadget C Store",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Gadgets & Electronics",
+    "price_range": "RM 50 - RM 1,800",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-11_GADGET_C_STORE.png"
+  },
+  {
+    "id": "shop_010",
+    "lot_id": "GF-12",
+    "lots": [
+      "GF-12"
+    ],
+    "primary_lot": "GF-12",
+    "name": "NIMROC",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Casual Wear & Apparel",
+    "price_range": "RM 45 - RM 180",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-12_NIMROC.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_011",
+    "lot_id": "GF-13",
+    "lots": [
+      "GF-13"
+    ],
+    "primary_lot": "GF-13",
+    "name": "Typical Lux & Bag Services",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Services",
+    "sub_category": "Bag Care & Repair",
+    "price_range": "RM 30 - RM 300",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-13_TYPICAL_LUX_BAG_SERVICES.png"
+  },
+  {
+    "id": "shop_012",
+    "lot_id": "GF-13A",
+    "lots": [
+      "GF-13A"
+    ],
+    "primary_lot": "GF-13A",
+    "name": "Inside Scoop",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Dessert & Ice Cream",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-13A_INSIDE_SCOOP.png"
+  },
+  {
+    "id": "shop_013",
+    "lot_id": "GF-15",
+    "lots": [
+      "GF-15"
+    ],
+    "primary_lot": "GF-15",
+    "name": "Velvet Vanity",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Health & Beauty",
+    "sub_category": "Cosmetics & Skincare",
+    "price_range": "RM 50 - RM 250",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-15_VELVET_VANITY.png"
+  },
+  {
+    "id": "shop_014",
+    "lot_id": "GF-16",
+    "lots": [
+      "GF-16"
+    ],
+    "primary_lot": "GF-16",
+    "name": "ChaTraMue",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-16_CHATRAMUE.png"
+  },
+  {
+    "id": "shop_015",
+    "lot_id": "GF-17",
+    "lots": [
+      "GF-17"
+    ],
+    "primary_lot": "GF-17",
+    "name": "Tealive",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 8 - RM 20",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-17_TEALIVE.png"
+  },
+  {
+    "id": "shop_016",
+    "lot_id": "GF-18 & 19",
+    "lots": [
+      "GF-18",
+      "GF-19"
+    ],
+    "primary_lot": "GF-18",
+    "name": "Lavender",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Bakery & Cakes",
+    "price_range": "RM 10 - RM 40",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-18_LAVENDER.png"
+  },
+  {
+    "id": "shop_017",
+    "lot_id": "GF-20",
+    "lots": [
+      "GF-20"
+    ],
+    "primary_lot": "GF-20",
+    "name": "The Coffee Bean and Tea Leaf Café",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 15 - RM 35",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-20_THE_COFFEE_BEAN_AND_TEA_LEAF_CAF.png"
+  },
+  {
+    "id": "shop_018",
+    "lot_id": "GF-21",
+    "lots": [
+      "GF-21"
+    ],
+    "primary_lot": "GF-21",
+    "name": "Subway",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 12 - RM 30",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-21_SUBWAY.png"
+  },
+  {
+    "id": "shop_019",
+    "lot_id": "GF-22",
+    "lots": [
+      "GF-22"
+    ],
+    "primary_lot": "GF-22",
+    "name": "Buah",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Food & Beverages",
+    "price_range": "RM 15 - RM 40",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-22_BUAH.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_020",
+    "lot_id": "GF-23",
+    "lots": [
+      "GF-23"
+    ],
+    "primary_lot": "GF-23",
+    "name": "llaollao",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Dessert & Ice Cream",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-23_LLAOLLAO.png"
+  },
+  {
+    "id": "shop_021",
+    "lot_id": "GF-23A",
+    "lots": [
+      "GF-23A"
+    ],
+    "primary_lot": "GF-23A",
+    "name": "Thai Odyssey",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 25 - RM 60",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-23A_THAI_ODYSSEY.png"
+  },
+  {
+    "id": "shop_022",
+    "lot_id": "GF-25",
+    "lots": [
+      "GF-25"
+    ],
+    "primary_lot": "GF-25",
+    "name": "Mr D.I.Y.",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Home & Variety Store",
+    "price_range": "RM 10 - RM 80",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-25_MR_D_I_Y.png"
+  },
+  {
+    "id": "shop_023",
+    "lot_id": "GF-26",
+    "lots": [
+      "GF-26"
+    ],
+    "primary_lot": "GF-26",
+    "name": "LG Puricare",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Home Appliances & Furniture",
+    "price_range": "RM 500 - RM 3,000",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-26_LG_PURICARE.png"
+  },
+  {
+    "id": "shop_024",
+    "lot_id": "GF-27",
+    "lots": [
+      "GF-27"
+    ],
+    "primary_lot": "GF-27",
+    "name": "CASE",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Gadgets & Electronics",
+    "price_range": "RM 30 - RM 500",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-27_CASE.png"
+  },
+  {
+    "id": "shop_025",
+    "lot_id": "GF-28",
+    "lots": [
+      "GF-28"
+    ],
+    "primary_lot": "GF-28",
+    "name": "The Nail Place",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Health & Beauty",
+    "sub_category": "Nail & Beauty Services",
+    "price_range": "RM 40 - RM 150",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-28_THE_NAIL_PLACE.png"
+  },
+  {
+    "id": "shop_026",
+    "lot_id": "GF-29",
+    "lots": [
+      "GF-29"
+    ],
+    "primary_lot": "GF-29",
+    "name": "Jaya Grocer",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Department Store & Supermarket",
+    "sub_category": "Supermarket & Fresh Groceries",
+    "price_range": "RM 20 - RM 200",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-29_JAYA_GROCER.png"
+  },
+  {
+    "id": "shop_027",
+    "lot_id": "GF-30",
+    "lots": [
+      "GF-30"
+    ],
+    "primary_lot": "GF-30",
+    "name": "Potato Corner",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 8 - RM 20",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-30_POTATO_CORNER.png"
+  },
+  {
+    "id": "shop_028",
+    "lot_id": "GF-31",
+    "lots": [
+      "GF-31"
+    ],
+    "primary_lot": "GF-31",
+    "name": "Krispy Kreme",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 10 - RM 40",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-31_KRISPY_KREME.png"
+  },
+  {
+    "id": "shop_029",
+    "lot_id": "GF-32",
+    "lots": [
+      "GF-32"
+    ],
+    "primary_lot": "GF-32",
+    "name": "Diana's Premium Cakes",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Bakery & Cakes",
+    "price_range": "RM 10 - RM 60",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-32_DIANA_S_PREMIUM_CAKES.png"
+  },
+  {
+    "id": "shop_030",
+    "lot_id": "GF-33",
+    "lots": [
+      "GF-33"
+    ],
+    "primary_lot": "GF-33",
+    "name": "Hot & Roll",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 8 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-33_HOT_ROLL.png"
+  },
+  {
+    "id": "shop_031",
+    "lot_id": "GF-33A",
+    "lots": [
+      "GF-33A"
+    ],
+    "primary_lot": "GF-33A",
+    "name": "Rotiboy",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Bakery & Cakes",
+    "price_range": "RM 6 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-33A_ROTIBOY.png"
+  },
+  {
+    "id": "shop_032",
+    "lot_id": "GF-35 & 36",
+    "lots": [
+      "GF-35",
+      "GF-36"
+    ],
+    "primary_lot": "GF-35",
+    "name": "Swift Bike",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Services",
+    "sub_category": "General Retail",
+    "price_range": "RM 30 - RM 150",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-35_SWIFT_BIKE.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_033",
+    "lot_id": "GF-37 & 38",
+    "lots": [
+      "GF-37",
+      "GF-38"
+    ],
+    "primary_lot": "GF-37",
+    "name": "Bukuh Express",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 20 - RM 45",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-37_BUKUH_EXPRESS.png"
+  },
+  {
+    "id": "shop_034",
+    "lot_id": "GF-39",
+    "lots": [
+      "GF-39"
+    ],
+    "primary_lot": "GF-39",
+    "name": "Tutti Fruitti",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Dessert & Ice Cream",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-39_TUTTI_FRUITTI.png"
+  },
+  {
+    "id": "shop_035",
+    "lot_id": "GF-39A",
+    "lots": [
+      "GF-39A"
+    ],
+    "primary_lot": "GF-39A",
+    "name": "Ohcha Matcha",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-39A_OHCHA_MATCHA.png"
+  },
+  {
+    "id": "shop_036",
+    "lot_id": "GF-41 & 42",
+    "lots": [
+      "GF-41",
+      "GF-42"
+    ],
+    "primary_lot": "GF-41",
+    "name": "Pets Wonderland",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Pets & Aquarium",
+    "price_range": "RM 20 - RM 200",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-41_PETS_WONDERLAND.png"
+  },
+  {
+    "id": "shop_037",
+    "lot_id": "GF-43",
+    "lots": [
+      "GF-43"
+    ],
+    "primary_lot": "GF-43",
+    "name": "Koffie Macroy",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-43_KOFFIE_MACROY.png"
+  },
+  {
+    "id": "shop_038",
+    "lot_id": "GF-43A",
+    "lots": [
+      "GF-43A"
+    ],
+    "primary_lot": "GF-43A",
+    "name": "Ali, Muthu & Ah Hock",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 20 - RM 45",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-43A_ALI_MUTHU_AH_HOCK.png"
+  },
+  {
+    "id": "shop_039",
+    "lot_id": "GF-45",
+    "lots": [
+      "GF-45"
+    ],
+    "primary_lot": "GF-45",
+    "name": "Matase Sutera",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Modest & Traditional Fashion",
+    "price_range": "RM 60 - RM 250",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-45_MATASE_SUTERA.png"
+  },
+  {
+    "id": "shop_040",
+    "lot_id": "GF-46",
+    "lots": [
+      "GF-46"
+    ],
+    "primary_lot": "GF-46",
+    "name": "Aula",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Modest & Traditional Fashion",
+    "price_range": "RM 60 - RM 220",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-46_AULA.png"
+  },
+  {
+    "id": "shop_041",
+    "lot_id": "GF-47, 48 & 49",
+    "lots": [
+      "GF-47",
+      "GF-48",
+      "GF-49"
+    ],
+    "primary_lot": "GF-47",
+    "name": "Al-Ikhsan Sports",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Sports & Activewear",
+    "price_range": "RM 80 - RM 350",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-47_AL_IKHSAN_SPORTS.png"
+  },
+  {
+    "id": "shop_042",
+    "lot_id": "GF-50",
+    "lots": [
+      "GF-50"
+    ],
+    "primary_lot": "GF-50",
+    "name": "Jac's Optometry",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Accessories",
+    "sub_category": "Eyewear & Optical",
+    "price_range": "RM 100 - RM 450",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-50_JAC_S_OPTOMETRY.png"
+  },
+  {
+    "id": "shop_043",
+    "lot_id": "GF-51",
+    "lots": [
+      "GF-51"
+    ],
+    "primary_lot": "GF-51",
+    "name": "D'Special Day",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "General Retail",
+    "price_range": "RM 30 - RM 100",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-51_D_SPECIAL_DAY.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_044",
+    "lot_id": "GF-52",
+    "lots": [
+      "GF-52"
+    ],
+    "primary_lot": "GF-52",
+    "name": "Caring Pharmacy",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Health & Beauty",
+    "sub_category": "Pharmacy & Personal Care",
+    "price_range": "RM 20 - RM 100",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-52_CARING_PHARMACY.png"
+  },
+  {
+    "id": "shop_045",
+    "lot_id": "GF-53",
+    "lots": [
+      "GF-53"
+    ],
+    "primary_lot": "GF-53",
+    "name": "Sorella",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Modest & Traditional Fashion",
+    "price_range": "RM 60 - RM 220",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-53_SORELLA.png"
+  },
+  {
+    "id": "shop_046",
+    "lot_id": "GF-53A",
+    "lots": [
+      "GF-53A"
+    ],
+    "primary_lot": "GF-53A",
+    "name": "Nyonya Colors",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 20 - RM 50",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-53A_NYONYA_COLORS.png"
+  },
+  {
+    "id": "shop_047",
+    "lot_id": "GF-55",
+    "lots": [
+      "GF-55"
+    ],
+    "primary_lot": "GF-55",
+    "name": "Meija",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Home & Variety Store",
+    "price_range": "RM 10 - RM 80",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-55_MEIJA.png"
+  },
+  {
+    "id": "shop_048",
+    "lot_id": "GF-56",
+    "lots": [
+      "GF-56"
+    ],
+    "primary_lot": "GF-56",
+    "name": "F.O.S.",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Casual Wear & Apparel",
+    "price_range": "RM 20 - RM 150",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-56_F_O_S.png"
+  },
+  {
+    "id": "shop_049",
+    "lot_id": "GF-57",
+    "lots": [
+      "GF-57"
+    ],
+    "primary_lot": "GF-57",
+    "name": "Happy Fish",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Pets & Aquarium",
+    "price_range": "RM 10 - RM 200",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-57_HAPPY_FISH.png"
+  },
+  {
+    "id": "shop_050",
+    "lot_id": "GF-58 & 59",
+    "lots": [
+      "GF-58",
+      "GF-59"
+    ],
+    "primary_lot": "GF-58",
+    "name": "Toys \"R\" Us",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Toys",
+    "price_range": "RM 30 - RM 200",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-58_TOYS_R_US.png"
+  },
+  {
+    "id": "shop_051",
+    "lot_id": "GF-60 & GF-61",
+    "lots": [
+      "GF-60",
+      "GF-61"
+    ],
+    "primary_lot": "GF-60",
+    "name": "The Perfume Factory",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Health & Beauty",
+    "sub_category": "Fragrance",
+    "price_range": "RM 50 - RM 300",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-60_THE_PERFUME_FACTORY.png"
+  },
+  {
+    "id": "shop_052",
+    "lot_id": "GF-62",
+    "lots": [
+      "GF-62"
+    ],
+    "primary_lot": "GF-62",
+    "name": "W Gallery",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Accessories",
+    "sub_category": "Fashion Accessories",
+    "price_range": "RM 20 - RM 150",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-62_W_GALLERY.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_053",
+    "lot_id": "GF-63",
+    "lots": [
+      "GF-63"
+    ],
+    "primary_lot": "GF-63",
+    "name": "Teera Bellesa",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Modest & Traditional Fashion",
+    "price_range": "RM 60 - RM 220",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-63_TEERA_BELLESA.png"
+  },
+  {
+    "id": "shop_054",
+    "lot_id": "GF-63A",
+    "lots": [
+      "GF-63A"
+    ],
+    "primary_lot": "GF-63A",
+    "name": "Twigs Bookshop",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Books, Stationery & Library",
+    "price_range": "RM 15 - RM 90",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-63A_TWIGS_BOOKSHOP.png"
+  },
+  {
+    "id": "shop_055",
+    "lot_id": "GF-65",
+    "lots": [
+      "GF-65"
+    ],
+    "primary_lot": "GF-65",
+    "name": "Gula Petite x Arieni's Roti Jala",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 15 - RM 40",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-65_GULA_PETITE_X_ARIENI_S_ROTI_JALA.png"
+  },
+  {
+    "id": "shop_056",
+    "lot_id": "GF-66",
+    "lots": [
+      "GF-66"
+    ],
+    "primary_lot": "GF-66",
+    "name": "Bayu Somerset",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Modest & Traditional Fashion",
+    "price_range": "RM 60 - RM 220",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-66_BAYU_SOMERSET.png"
+  },
+  {
+    "id": "shop_057",
+    "lot_id": "GF-67",
+    "lots": [
+      "GF-67"
+    ],
+    "primary_lot": "GF-67",
+    "name": "The BabyLoft",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Baby & Kids Products",
+    "price_range": "RM 30 - RM 300",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-67_THE_BABYLOFT.png"
+  },
+  {
+    "id": "shop_058",
+    "lot_id": "GF-67A",
+    "lots": [
+      "GF-67A"
+    ],
+    "primary_lot": "GF-67A",
+    "name": "Icahfa",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Modest & Traditional Fashion",
+    "price_range": "RM 60 - RM 220",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-67A_ICAHFA.png"
+  },
+  {
+    "id": "shop_059",
+    "lot_id": "GF-67B",
+    "lots": [
+      "GF-67B"
+    ],
+    "primary_lot": "GF-67B",
+    "name": "Onura Atelier",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Modest & Traditional Fashion",
+    "price_range": "RM 80 - RM 300",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-67B_ONURA_ATELIER.png"
+  },
+  {
+    "id": "shop_060",
+    "lot_id": "GF-68",
+    "lots": [
+      "GF-68"
+    ],
+    "primary_lot": "GF-68",
+    "name": "Dolly Dim Sum",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 20 - RM 50",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-68_DOLLY_DIM_SUM.png"
+  },
+  {
+    "id": "shop_061",
+    "lot_id": "GF-69",
+    "lots": [
+      "GF-69"
+    ],
+    "primary_lot": "GF-69",
+    "name": "BHC Chicken",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 20 - RM 45",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-69_BHC_CHICKEN.png"
+  },
+  {
+    "id": "shop_062",
+    "lot_id": "GF-70",
+    "lots": [
+      "GF-70"
+    ],
+    "primary_lot": "GF-70",
+    "name": "D'Aroma Sajian",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 20 - RM 50",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-70_D_AROMA_SAJIAN.png"
+  },
+  {
+    "id": "shop_063",
+    "lot_id": "GF-71",
+    "lots": [
+      "GF-71"
+    ],
+    "primary_lot": "GF-71",
+    "name": "Fish & Co.",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 40 - RM 90",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-71_FISH_CO.png"
+  },
+  {
+    "id": "shop_064",
+    "lot_id": "GF-72",
+    "lots": [
+      "GF-72"
+    ],
+    "primary_lot": "GF-72",
+    "name": "Nando's",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 30 - RM 65",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-72_NANDO_S.png"
+  },
+  {
+    "id": "shop_065",
+    "lot_id": "GF-73",
+    "lots": [
+      "GF-73"
+    ],
+    "primary_lot": "GF-73",
+    "name": "ParaThai",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 20 - RM 50",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-73_PARATHAI.png"
+  },
+  {
+    "id": "shop_066",
+    "lot_id": "GF-73A",
+    "lots": [
+      "GF-73A"
+    ],
+    "primary_lot": "GF-73A",
+    "name": "Super Saigon",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 20 - RM 50",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-73A_SUPER_SAIGON.png"
+  },
+  {
+    "id": "shop_067",
+    "lot_id": "GF-75",
+    "lots": [
+      "GF-75"
+    ],
+    "primary_lot": "GF-75",
+    "name": "Serai",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 25 - RM 60",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-75_SERAI.png"
+  },
+  {
+    "id": "shop_068",
+    "lot_id": "GF-76",
+    "lots": [
+      "GF-76"
+    ],
+    "primary_lot": "GF-76",
+    "name": "Banglo 289",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 25 - RM 60",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-76_BANGLO_289.png"
+  },
+  {
+    "id": "shop_069",
+    "lot_id": "GF-77 & 78",
+    "lots": [
+      "GF-77",
+      "GF-78"
+    ],
+    "primary_lot": "GF-77",
+    "name": "Kenny Hills Bakers",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Bakery & Cakes",
+    "price_range": "RM 10 - RM 40",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-77_KENNY_HILLS_BAKERS.png"
+  },
+  {
+    "id": "shop_070",
+    "lot_id": "GF-79",
+    "lots": [
+      "GF-79"
+    ],
+    "primary_lot": "GF-79",
+    "name": "Chica Bonita",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 25 - RM 60",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-79_CHICA_BONITA.png"
+  },
+  {
+    "id": "shop_071",
+    "lot_id": "GF-80",
+    "lots": [
+      "GF-80"
+    ],
+    "primary_lot": "GF-80",
+    "name": "Ole-Ole Bali",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 25 - RM 60",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-80_OLE_OLE_BALI.png"
+  },
+  {
+    "id": "shop_072",
+    "lot_id": "GF-81",
+    "lots": [
+      "GF-81"
+    ],
+    "primary_lot": "GF-81",
+    "name": "The Bike Artisans",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Bicycles & Cycling Gear",
+    "price_range": "RM 100 - RM 5,000",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-81_THE_BIKE_ARTISANS.png"
+  },
+  {
+    "id": "shop_073",
+    "lot_id": "GF-82 & 83",
+    "lots": [
+      "GF-82",
+      "GF-83"
+    ],
+    "primary_lot": "GF-82",
+    "name": "Sushi Zanmai",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Casual Dining & Restaurant",
+    "price_range": "RM 30 - RM 80",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-82_SUSHI_ZANMAI.png"
+  },
+  {
+    "id": "shop_074",
+    "lot_id": "GF-83A",
+    "lots": [
+      "GF-83A"
+    ],
+    "primary_lot": "GF-83A",
+    "name": "7-Eleven",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Convenience Store",
+    "price_range": "RM 5 - RM 30",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-83A_7_ELEVEN.png"
+  },
+  {
+    "id": "shop_075",
+    "lot_id": "GF-85",
+    "lots": [
+      "GF-85"
+    ],
+    "primary_lot": "GF-85",
+    "name": "Chagee",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-85_CHAGEE.png"
+  },
+  {
+    "id": "shop_076",
+    "lot_id": "GF-86",
+    "lots": [
+      "GF-86"
+    ],
+    "primary_lot": "GF-86",
+    "name": "Skechers",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Accessories",
+    "sub_category": "Footwear & Shoes",
+    "price_range": "RM 150 - RM 400",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-86_SKECHERS.png"
+  },
+  {
+    "id": "shop_077",
+    "lot_id": "GF-87A",
+    "lots": [
+      "GF-87A"
+    ],
+    "primary_lot": "GF-87A",
+    "name": "Anytime Fitness",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Services",
+    "sub_category": "Fitness & Gym",
+    "price_range": "RM 150 - RM 250 (monthly)",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-87A_ANYTIME_FITNESS.png"
+  },
+  {
+    "id": "shop_078",
+    "lot_id": "GF-87B",
+    "lots": [
+      "GF-87B"
+    ],
+    "primary_lot": "GF-87B",
+    "name": "Littlefoot (indoor playground)",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Entertainment",
+    "sub_category": "Indoor Playground",
+    "price_range": "RM 30 - RM 80",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-87B_LITTLEFOOT_INDOOR_PLAYGROUND.png"
+  },
+  {
+    "id": "shop_079",
+    "lot_id": "GF-88 & 89",
+    "lots": [
+      "GF-88",
+      "GF-89"
+    ],
+    "primary_lot": "GF-88",
+    "name": "Harvey Norman",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "Home Appliances & Furniture",
+    "price_range": "RM 200 - RM 5,000",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-88_HARVEY_NORMAN.png"
+  },
+  {
+    "id": "shop_080",
+    "lot_id": "GF-90, 91 & 92",
+    "lots": [
+      "GF-90",
+      "GF-91",
+      "GF-92"
+    ],
+    "primary_lot": "GF-90",
+    "name": "Creative Lab",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Specialty",
+    "sub_category": "General Retail",
+    "price_range": "RM 30 - RM 100",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-90_CREATIVE_LAB.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_081",
+    "lot_id": "GF-93 & 93A",
+    "lots": [
+      "GF-93",
+      "GF-93A"
+    ],
+    "primary_lot": "GF-93",
+    "name": "Big Eye",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Services",
+    "sub_category": "General Retail",
+    "price_range": "RM 30 - RM 100",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-93_BIG_EYE.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_082",
+    "lot_id": "GF-95 & 96",
+    "lots": [
+      "GF-95",
+      "GF-96"
+    ],
+    "primary_lot": "GF-95",
+    "name": "Zus Coffee",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-95_ZUS_COFFEE.png"
+  },
+  {
+    "id": "shop_083",
+    "lot_id": "GF-97",
+    "lots": [
+      "GF-97"
+    ],
+    "primary_lot": "GF-97",
+    "name": "Decathlon",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Fashion",
+    "sub_category": "Sports & Activewear",
+    "price_range": "RM 30 - RM 400",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GF-97_DECATHLON.png"
+  },
+  {
+    "id": "shop_084",
+    "lot_id": "GK-01",
+    "lots": [
+      "GK-01"
+    ],
+    "primary_lot": "GK-01",
+    "name": "Boost Juice Bars",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-01_BOOST_JUICE_BARS.png"
+  },
+  {
+    "id": "shop_085",
+    "lot_id": "GK-02",
+    "lots": [
+      "GK-02"
+    ],
+    "primary_lot": "GK-02",
+    "name": "Mcdonalds",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 12 - RM 30",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-02_MCDONALDS.png"
+  },
+  {
+    "id": "shop_086",
+    "lot_id": "GK-03",
+    "lots": [
+      "GK-03"
+    ],
+    "primary_lot": "GK-03",
+    "name": "Mr Muruku",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 5 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-03_MR_MURUKU.png"
+  },
+  {
+    "id": "shop_087",
+    "lot_id": "GK-03 & 03A",
+    "lots": [
+      "GK-03",
+      "GK-03A"
+    ],
+    "primary_lot": "GK-03",
+    "name": "Rollti",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 8 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-03_ROLLTI.png"
+  },
+  {
+    "id": "shop_088",
+    "lot_id": "GK-03A",
+    "lots": [
+      "GK-03A"
+    ],
+    "primary_lot": "GK-03A",
+    "name": "Famous Amos",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 8 - RM 30",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-03A_FAMOUS_AMOS.png"
+  },
+  {
+    "id": "shop_089",
+    "lot_id": "GK-05 & GK-06",
+    "lots": [
+      "GK-05",
+      "GK-06"
+    ],
+    "primary_lot": "GK-05",
+    "name": "Penang Chendul",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Dessert & Ice Cream",
+    "price_range": "RM 8 - RM 20",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-05_PENANG_CHENDUL.png"
+  },
+  {
+    "id": "shop_090",
+    "lot_id": "GK-07",
+    "lots": [
+      "GK-07"
+    ],
+    "primary_lot": "GK-07",
+    "name": "Gong Cha",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-07_GONG_CHA.png"
+  },
+  {
+    "id": "shop_091",
+    "lot_id": "GK-08",
+    "lots": [
+      "GK-08"
+    ],
+    "primary_lot": "GK-08",
+    "name": "Fifbites",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 10 - RM 30",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-08_FIFBITES.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_092",
+    "lot_id": "GK-09",
+    "lots": [
+      "GK-09"
+    ],
+    "primary_lot": "GK-09",
+    "name": "Inari Express",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 12 - RM 30",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-09_INARI_EXPRESS.png"
+  },
+  {
+    "id": "shop_093",
+    "lot_id": "GK-10",
+    "lots": [
+      "GK-10"
+    ],
+    "primary_lot": "GK-10",
+    "name": "Kenangan Coffee",
+    "status": "Coming Soon",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "0 mins",
+    "avg_visit_time_min": 0,
+    "visit_time_source": "not_applicable",
+    "logo_filename": "GK-10_KENANGAN_COFFEE.png"
+  },
+  {
+    "id": "shop_094",
+    "lot_id": "GK-11",
+    "lots": [
+      "GK-11"
+    ],
+    "primary_lot": "GK-11",
+    "name": "Taffy Gelato",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Dessert & Ice Cream",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "GK-11_TAFFY_GELATO.png"
+  },
+  {
+    "id": "shop_095",
+    "lot_id": "DT-01",
+    "lots": [
+      "DT-01"
+    ],
+    "primary_lot": "DT-01",
+    "name": "Ediya Coffee",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Beverages & Cafe",
+    "price_range": "RM 10 - RM 25",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "DT-01_EDIYA_COFFEE.png"
+  },
+  {
+    "id": "shop_096",
+    "lot_id": "DT-02",
+    "lots": [
+      "DT-02"
+    ],
+    "primary_lot": "DT-02",
+    "name": "Burger King",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 12 - RM 30",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "DT-02_BURGER_KING.png"
+  },
+  {
+    "id": "shop_097",
+    "lot_id": "DT-03",
+    "lots": [
+      "DT-03"
+    ],
+    "primary_lot": "DT-03",
+    "name": "Nak Nak",
+    "status": "Occupied",
+    "floor": "GF",
+    "category": "Food & Beverage",
+    "sub_category": "Fast Food & Snacks",
+    "price_range": "RM 12 - RM 30",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "DT-03_NAK_NAK.png",
+    "directory_note": "Category/price uncertain - please verify"
+  },
+  {
+    "id": "shop_098",
+    "lot_id": "P-01",
+    "lots": [
+      "P-01"
+    ],
+    "primary_lot": "P-01",
+    "name": "Wax Zone",
+    "status": "Coming Soon",
+    "floor": null,
+    "category": "Health & Beauty",
+    "sub_category": "Waxing & Hair Removal",
+    "price_range": "RM 40 - RM 200",
+    "avg_visit_time": "0 mins",
+    "avg_visit_time_min": 0,
+    "visit_time_source": "not_applicable",
+    "logo_filename": "P-01_WAX_ZONE.png",
+    "directory_note": "Level 'P' unclear"
+  },
+  {
+    "id": "shop_099",
+    "lot_id": "",
+    "lots": [],
+    "primary_lot": "",
+    "name": "18 Lab by KLGCC Sales Gallery",
+    "status": "Occupied",
+    "floor": null,
+    "category": "Services",
+    "sub_category": "Property Sales Gallery",
+    "price_range": "N/A",
+    "avg_visit_time": "20 mins",
+    "avg_visit_time_min": 20,
+    "visit_time_source": "prototype_placeholder_not_measured",
+    "logo_filename": "NOLOT_18_LAB_BY_KLGCC_SALES_GALLERY.png",
+    "directory_note": "No lot number on site"
+  }
+]

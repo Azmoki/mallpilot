@@ -1,0 +1,127 @@
+[
+  {
+    "id": "DROP_01",
+    "name": "Drop Off 1 – Sales Gallery",
+    "category": "drop_off",
+    "floor": "GF",
+    "x": 294.9,
+    "y": 494.38,
+    "description": "Near the Integrated Operations Office and Sales Gallery",
+    "verified": false,
+    "route_enabled": true
+  },
+  {
+    "id": "DROP_02",
+    "name": "Drop Off 2 – South Central",
+    "category": "drop_off",
+    "floor": "GF",
+    "x": 789.45,
+    "y": 599.74,
+    "description": "Near GF-01 and the south-central entrance",
+    "verified": false,
+    "route_enabled": true
+  },
+  {
+    "id": "DROP_03",
+    "name": "Drop Off 3 – Central East",
+    "category": "drop_off",
+    "floor": "GF",
+    "x": 991.12,
+    "y": 386.99,
+    "description": "Near GF-25 and the central eastern entrance",
+    "verified": false,
+    "route_enabled": true
+  },
+  {
+    "id": "DROP_04",
+    "name": "Drop Off 4 – East",
+    "category": "drop_off",
+    "floor": "GF",
+    "x": 1365.08,
+    "y": 333.3,
+    "description": "Near the GF-88 & GF-89 side entrance",
+    "verified": false,
+    "route_enabled": true
+  },
+  {
+    "id": "TOILET_01",
+    "name": "Toilet 1 – Southwest",
+    "category": "toilet",
+    "floor": "GF",
+    "x": 396.25,
+    "y": 737.52,
+    "description": "Southwest toilet area near GF-80; both male and female symbols represent this one location",
+    "verified": false,
+    "route_enabled": true,
+    "marker_width": 40,
+    "marker_height": 68
+  },
+  {
+    "id": "TOILET_02",
+    "name": "Toilet 2 – Central",
+    "category": "toilet",
+    "floor": "GF",
+    "x": 1215.09,
+    "y": 498.43,
+    "description": "Central toilet area near GF-52; both male and female symbols represent this one location",
+    "verified": false,
+    "route_enabled": true,
+    "marker_width": 54,
+    "marker_height": 38
+  },
+  {
+    "id": "NURSING_01",
+    "name": "Nursing Room – Central",
+    "category": "nursing_room",
+    "floor": "GF",
+    "x": 1252.59,
+    "y": 498.43,
+    "description": "Next to the central toilet area",
+    "verified": false,
+    "route_enabled": true
+  },
+  {
+    "id": "ATM_01",
+    "name": "ATM – Central",
+    "category": "atm",
+    "floor": "GF",
+    "x": 1267.79,
+    "y": 537.94,
+    "description": "ATM near the central facilities area",
+    "verified": false,
+    "route_enabled": true
+  },
+  {
+    "id": "SURAU_01",
+    "name": "Surau – Central",
+    "category": "surau",
+    "floor": "GF",
+    "x": 1285.02,
+    "y": 473.1,
+    "description": "Prayer room near the central facilities area",
+    "verified": false,
+    "route_enabled": true
+  },
+  {
+    "id": "INFO_01",
+    "name": "Information Counter – South",
+    "category": "information",
+    "floor": "GF",
+    "x": 791.48,
+    "y": 692.94,
+    "description": "Near the water feature and south-central shops",
+    "verified": false,
+    "route_enabled": true
+  },
+  {
+    "id": "PLAY_01",
+    "name": "Children's Playground – Southeast",
+    "category": "playground",
+    "floor": "GF",
+    "x": 1170.5,
+    "y": 634.18,
+    "description": "Near the southeast shopping area and water feature",
+    "verified": false,
+    "route_enabled": true
+  }
+]

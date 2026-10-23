@@ -1,0 +1,16 @@
+# Python virtual environments
+**/.venv/
+**/__pycache__/
+*.pyc
+
+# Flutter temporary files
+**/.dart_tool/
+**/build/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Backend backup files
+Backend/data/*backup*.json

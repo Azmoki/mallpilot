@@ -1,0 +1,5 @@
+# Stage 8 adds no new dependencies. Requires packages from Stage 7:
+fastapi>=0.100
+uvicorn>=0.23
+networkx>=3.0
+pydantic>=2.0

@@ -1,0 +1,3072 @@
+{
+  "mall_id": "elmina_lakeside_mall",
+  "mall_name": "Elmina Lakeside Mall",
+  "floor": "GF",
+  "image_width": 1737,
+  "image_height": 930,
+  "next_node_number": 330,
+  "routing_scope": "pedestrian_shopping_walkways_and_shop_entrances_only",
+  "nodes": [
+    {
+      "id": "GF_N011",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1402,
+      "y": 355
+    },
+    {
+      "id": "GF_N013",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1382,
+      "y": 515
+    },
+    {
+      "id": "GF_N014",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1382,
+      "y": 557
+    },
+    {
+      "id": "GF_N015",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1361,
+      "y": 583
+    },
+    {
+      "id": "GF_N016",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1336,
+      "y": 592
+    },
+    {
+      "id": "GF_N022",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1314,
+      "y": 602
+    },
+    {
+      "id": "GF_N023",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1296,
+      "y": 609
+    },
+    {
+      "id": "GF_N024",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1277,
+      "y": 617
+    },
+    {
+      "id": "GF_N025",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1257,
+      "y": 625
+    },
+    {
+      "id": "GF_N026",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1240,
+      "y": 644
+    },
+    {
+      "id": "GF_N027",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1224,
+      "y": 679
+    },
+    {
+      "id": "GF_N028",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1172,
+      "y": 684
+    },
+    {
+      "id": "GF_N029",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1123,
+      "y": 682
+    },
+    {
+      "id": "GF_N030",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1090,
+      "y": 687
+    },
+    {
+      "id": "GF_N031",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1058,
+      "y": 693
+    },
+    {
+      "id": "GF_N032",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1006,
+      "y": 703
+    },
+    {
+      "id": "GF_N039",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 935,
+      "y": 714
+    },
+    {
+      "id": "GF_N040",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 902,
+      "y": 715
+    },
+    {
+      "id": "GF_N041",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 865,
+      "y": 715
+    },
+    {
+      "id": "GF_N043",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 838,
+      "y": 715
+    },
+    {
+      "id": "GF_N044",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 807,
+      "y": 715
+    },
+    {
+      "id": "GF_N045",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 777,
+      "y": 715
+    },
+    {
+      "id": "GF_N046",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 712,
+      "y": 712
+    },
+    {
+      "id": "GF_N047",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 665,
+      "y": 714
+    },
+    {
+      "id": "GF_N049",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 494,
+      "y": 715
+    },
+    {
+      "id": "GF_N050",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 441,
+      "y": 718
+    },
+    {
+      "id": "GF_N051",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 254,
+      "y": 360
+    },
+    {
+      "id": "GF_N052",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 254,
+      "y": 298
+    },
+    {
+      "id": "GF_N053",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 256,
+      "y": 194
+    },
+    {
+      "id": "GF_N054",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 254,
+      "y": 141
+    },
+    {
+      "id": "GF_N056",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 426,
+      "y": 166
+    },
+    {
+      "id": "GF_N060",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 600,
+      "y": 185
+    },
+    {
+      "id": "GF_N061",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 755,
+      "y": 180
+    },
+    {
+      "id": "GF_N062",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 895,
+      "y": 180
+    },
+    {
+      "id": "GF_N063",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 242,
+      "y": 707
+    },
+    {
+      "id": "GF_N064",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 434,
+      "y": 551
+    },
+    {
+      "id": "GF_N065",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 531,
+      "y": 543
+    },
+    {
+      "id": "GF_N066",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 633,
+      "y": 543
+    },
+    {
+      "id": "GF_N067",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 676,
+      "y": 542
+    },
+    {
+      "id": "GF_N068",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 720,
+      "y": 543
+    },
+    {
+      "id": "GF_N069",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 827,
+      "y": 573
+    },
+    {
+      "id": "GF_N070",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 840,
+      "y": 608
+    },
+    {
+      "id": "GF_N071",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 932,
+      "y": 516
+    },
+    {
+      "id": "GF_N072",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 947,
+      "y": 606
+    },
+    {
+      "id": "GF_N081",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 966,
+      "y": 513
+    },
+    {
+      "id": "GF_N082",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 974,
+      "y": 581
+    },
+    {
+      "id": "GF_N083",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1009,
+      "y": 584
+    },
+    {
+      "id": "GF_N091",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1028,
+      "y": 417
+    },
+    {
+      "id": "GF_N092",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1031,
+      "y": 448
+    },
+    {
+      "id": "GF_N093",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1030,
+      "y": 489
+    },
+    {
+      "id": "GF_N097",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1131,
+      "y": 291
+    },
+    {
+      "id": "GF_N098",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1202,
+      "y": 325
+    },
+    {
+      "id": "GF_N099",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1225,
+      "y": 327
+    },
+    {
+      "id": "GF_N100",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1246,
+      "y": 325
+    },
+    {
+      "id": "GF_N101",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1266,
+      "y": 322
+    },
+    {
+      "id": "GF_N102",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1285,
+      "y": 325
+    },
+    {
+      "id": "GF_N103",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1326,
+      "y": 292
+    },
+    {
+      "id": "GF_N105",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1096,
+      "y": 226
+    },
+    {
+      "id": "GF_N106",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1165,
+      "y": 313
+    },
+    {
+      "id": "GF_N107",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1135,
+      "y": 368
+    },
+    {
+      "id": "GF_N111",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1211,
+      "y": 366
+    },
+    {
+      "id": "GF_N112",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1232,
+      "y": 366
+    },
+    {
+      "id": "GF_N113",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1169,
+      "y": 366
+    },
+    {
+      "id": "GF_N114",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1187,
+      "y": 363
+    },
+    {
+      "id": "GF_N115",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1293,
+      "y": 360
+    },
+    {
+      "id": "GF_N116",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1285,
+      "y": 401
+    },
+    {
+      "id": "GF_N118",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1322,
+      "y": 431
+    },
+    {
+      "id": "GF_N119",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1325,
+      "y": 491
+    },
+    {
+      "id": "GF_N120",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1306,
+      "y": 538
+    },
+    {
+      "id": "GF_N124",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1123,
+      "y": 643
+    },
+    {
+      "id": "GF_N125",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1124,
+      "y": 622
+    },
+    {
+      "id": "GF_N126",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1127,
+      "y": 598
+    },
+    {
+      "id": "GF_N127",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1067,
+      "y": 606
+    },
+    {
+      "id": "GF_N128",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1014,
+      "y": 636
+    },
+    {
+      "id": "GF_N129",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1224,
+      "y": 395
+    },
+    {
+      "id": "GF_N130",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1243,
+      "y": 567
+    },
+    {
+      "id": "GF_N132",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1222,
+      "y": 570
+    },
+    {
+      "id": "GF_N133",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1202,
+      "y": 570
+    },
+    {
+      "id": "GF_N135",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1181,
+      "y": 570
+    },
+    {
+      "id": "GF_N137",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1161,
+      "y": 568
+    },
+    {
+      "id": "GF_N138",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1129,
+      "y": 570
+    },
+    {
+      "id": "GF_N142",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1126,
+      "y": 403
+    },
+    {
+      "id": "GF_N143",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1175,
+      "y": 392
+    },
+    {
+      "id": "GF_N144",
+      "type": "mall_entrance",
+      "floor": "GF",
+      "x": 289,
+      "y": 501
+    },
+    {
+      "id": "GF_N145",
+      "type": "mall_entrance",
+      "floor": "GF",
+      "x": 1003,
+      "y": 384
+    },
+    {
+      "id": "GF_N146",
+      "type": "mall_entrance",
+      "floor": "GF",
+      "x": 797,
+      "y": 600
+    },
+    {
+      "id": "GF_N147",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1358,
+      "y": 335
+    },
+    {
+      "id": "GF_N148",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 868,
+      "y": 677
+    },
+    {
+      "id": "GF_N149",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1372,
+      "y": 357
+    },
+    {
+      "id": "GF_N150",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1345,
+      "y": 291
+    },
+    {
+      "id": "GF_N151",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1350,
+      "y": 317
+    },
+    {
+      "id": "GF_N152",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1367,
+      "y": 377
+    },
+    {
+      "id": "GF_N153",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1371,
+      "y": 537
+    },
+    {
+      "id": "GF_N154",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1358,
+      "y": 562
+    },
+    {
+      "id": "GF_N155",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1251,
+      "y": 606
+    },
+    {
+      "id": "GF_N157",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1222,
+      "y": 636
+    },
+    {
+      "id": "GF_N158",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1206,
+      "y": 665
+    },
+    {
+      "id": "GF_N159",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1142,
+      "y": 669
+    },
+    {
+      "id": "GF_N163",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1112,
+      "y": 666
+    },
+    {
+      "id": "GF_N164",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1071,
+      "y": 679
+    },
+    {
+      "id": "GF_N166",
+      "type": "junction",
+      "floor": "GF",
+      "x": 977,
+      "y": 696
+    },
+    {
+      "id": "GF_N167",
+      "type": "junction",
+      "floor": "GF",
+      "x": 764,
+      "y": 699
+    },
+    {
+      "id": "GF_N168",
+      "type": "junction",
+      "floor": "GF",
+      "x": 955,
+      "y": 703
+    },
+    {
+      "id": "GF_N169",
+      "type": "junction",
+      "floor": "GF",
+      "x": 529,
+      "y": 706
+    },
+    {
+      "id": "GF_N170",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 565,
+      "y": 720
+    },
+    {
+      "id": "GF_N171",
+      "type": "junction",
+      "floor": "GF",
+      "x": 598,
+      "y": 703
+    },
+    {
+      "id": "GF_N172",
+      "type": "junction",
+      "floor": "GF",
+      "x": 598,
+      "y": 554
+    },
+    {
+      "id": "GF_N173",
+      "type": "junction",
+      "floor": "GF",
+      "x": 701,
+      "y": 556
+    },
+    {
+      "id": "GF_N174",
+      "type": "junction",
+      "floor": "GF",
+      "x": 472,
+      "y": 557
+    },
+    {
+      "id": "GF_N175",
+      "type": "junction",
+      "floor": "GF",
+      "x": 414,
+      "y": 564
+    },
+    {
+      "id": "GF_N181",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1317,
+      "y": 341
+    },
+    {
+      "id": "GF_N182",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1183,
+      "y": 339
+    },
+    {
+      "id": "GF_N184",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1241,
+      "y": 346
+    },
+    {
+      "id": "GF_N185",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1260,
+      "y": 344
+    },
+    {
+      "id": "GF_N186",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1241,
+      "y": 384
+    },
+    {
+      "id": "GF_N187",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1262,
+      "y": 381
+    },
+    {
+      "id": "GF_N188",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1317,
+      "y": 377
+    },
+    {
+      "id": "GF_N189",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1199,
+      "y": 382
+    },
+    {
+      "id": "GF_N190",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1154,
+      "y": 381
+    },
+    {
+      "id": "GF_N191",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1153,
+      "y": 330
+    },
+    {
+      "id": "GF_N192",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1139,
+      "y": 314
+    },
+    {
+      "id": "GF_N193",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1115,
+      "y": 303
+    },
+    {
+      "id": "GF_N195",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1134,
+      "y": 240
+    },
+    {
+      "id": "GF_N196",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1134,
+      "y": 262
+    },
+    {
+      "id": "GF_N199",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1112,
+      "y": 240
+    },
+    {
+      "id": "GF_N200",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1052,
+      "y": 237
+    },
+    {
+      "id": "GF_N201",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1052,
+      "y": 267
+    },
+    {
+      "id": "GF_N202",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1050,
+      "y": 287
+    },
+    {
+      "id": "GF_N203",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1052,
+      "y": 306
+    },
+    {
+      "id": "GF_N204",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1055,
+      "y": 339
+    },
+    {
+      "id": "GF_N205",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1082,
+      "y": 242
+    },
+    {
+      "id": "GF_N207",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1083,
+      "y": 306
+    },
+    {
+      "id": "GF_N208",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1079,
+      "y": 379
+    },
+    {
+      "id": "GF_N210",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1064,
+      "y": 459
+    },
+    {
+      "id": "GF_N211",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1063,
+      "y": 480
+    },
+    {
+      "id": "GF_N212",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1060,
+      "y": 502
+    },
+    {
+      "id": "GF_N213",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1058,
+      "y": 521
+    },
+    {
+      "id": "GF_N214",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1053,
+      "y": 543
+    },
+    {
+      "id": "GF_N215",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1056,
+      "y": 573
+    },
+    {
+      "id": "GF_N216",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1082,
+      "y": 450
+    },
+    {
+      "id": "GF_N217",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1113,
+      "y": 381
+    },
+    {
+      "id": "GF_N218",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1132,
+      "y": 469
+    },
+    {
+      "id": "GF_N219",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1132,
+      "y": 502
+    },
+    {
+      "id": "GF_N220",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1134,
+      "y": 535
+    },
+    {
+      "id": "GF_N221",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1110,
+      "y": 461
+    },
+    {
+      "id": "GF_N222",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1110,
+      "y": 516
+    },
+    {
+      "id": "GF_N224",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1080,
+      "y": 513
+    },
+    {
+      "id": "GF_N225",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1110,
+      "y": 584
+    },
+    {
+      "id": "GF_N226",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1082,
+      "y": 584
+    },
+    {
+      "id": "GF_N227",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1244,
+      "y": 586
+    },
+    {
+      "id": "GF_N228",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1025,
+      "y": 598
+    },
+    {
+      "id": "GF_N229",
+      "type": "junction",
+      "floor": "GF",
+      "x": 966,
+      "y": 608
+    },
+    {
+      "id": "GF_N230",
+      "type": "junction",
+      "floor": "GF",
+      "x": 944,
+      "y": 499
+    },
+    {
+      "id": "GF_N231",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1004,
+      "y": 483
+    },
+    {
+      "id": "GF_N233",
+      "type": "junction",
+      "floor": "GF",
+      "x": 826,
+      "y": 516
+    },
+    {
+      "id": "GF_N234",
+      "type": "junction",
+      "floor": "GF",
+      "x": 808,
+      "y": 575
+    },
+    {
+      "id": "GF_N235",
+      "type": "junction",
+      "floor": "GF",
+      "x": 821,
+      "y": 617
+    },
+    {
+      "id": "GF_N236",
+      "type": "junction",
+      "floor": "GF",
+      "x": 807,
+      "y": 646
+    },
+    {
+      "id": "GF_N237",
+      "type": "junction",
+      "floor": "GF",
+      "x": 793,
+      "y": 668
+    },
+    {
+      "id": "GF_N238",
+      "type": "junction",
+      "floor": "GF",
+      "x": 362,
+      "y": 701
+    },
+    {
+      "id": "GF_N239",
+      "type": "junction",
+      "floor": "GF",
+      "x": 358,
+      "y": 567
+    },
+    {
+      "id": "GF_N240",
+      "type": "junction",
+      "floor": "GF",
+      "x": 352,
+      "y": 526
+    },
+    {
+      "id": "GF_N241",
+      "type": "junction",
+      "floor": "GF",
+      "x": 287,
+      "y": 523
+    },
+    {
+      "id": "GF_N242",
+      "type": "junction",
+      "floor": "GF",
+      "x": 270,
+      "y": 494
+    },
+    {
+      "id": "GF_N243",
+      "type": "junction",
+      "floor": "GF",
+      "x": 264,
+      "y": 422
+    },
+    {
+      "id": "GF_N246",
+      "type": "junction",
+      "floor": "GF",
+      "x": 267,
+      "y": 313
+    },
+    {
+      "id": "GF_N247",
+      "type": "junction",
+      "floor": "GF",
+      "x": 300,
+      "y": 414
+    },
+    {
+      "id": "GF_N248",
+      "type": "junction",
+      "floor": "GF",
+      "x": 302,
+      "y": 333
+    },
+    {
+      "id": "GF_N249",
+      "type": "junction",
+      "floor": "GF",
+      "x": 298,
+      "y": 257
+    },
+    {
+      "id": "GF_N250",
+      "type": "junction",
+      "floor": "GF",
+      "x": 267,
+      "y": 226
+    },
+    {
+      "id": "GF_N251",
+      "type": "junction",
+      "floor": "GF",
+      "x": 265,
+      "y": 109
+    },
+    {
+      "id": "GF_N252",
+      "type": "junction",
+      "floor": "GF",
+      "x": 276,
+      "y": 461
+    },
+    {
+      "id": "GF_N253",
+      "type": "junction",
+      "floor": "GF",
+      "x": 357,
+      "y": 728
+    },
+    {
+      "id": "GF_N254",
+      "type": "junction",
+      "floor": "GF",
+      "x": 243,
+      "y": 729
+    },
+    {
+      "id": "GF_N255",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1004,
+      "y": 360
+    },
+    {
+      "id": "GF_N256",
+      "type": "junction",
+      "floor": "GF",
+      "x": 982,
+      "y": 344
+    },
+    {
+      "id": "GF_N257",
+      "type": "junction",
+      "floor": "GF",
+      "x": 977,
+      "y": 308
+    },
+    {
+      "id": "GF_N258",
+      "type": "junction",
+      "floor": "GF",
+      "x": 979,
+      "y": 262
+    },
+    {
+      "id": "GF_N259",
+      "type": "junction",
+      "floor": "GF",
+      "x": 977,
+      "y": 227
+    },
+    {
+      "id": "GF_N260",
+      "type": "junction",
+      "floor": "GF",
+      "x": 938,
+      "y": 229
+    },
+    {
+      "id": "GF_N261",
+      "type": "junction",
+      "floor": "GF",
+      "x": 917,
+      "y": 216
+    },
+    {
+      "id": "GF_N262",
+      "type": "junction",
+      "floor": "GF",
+      "x": 899,
+      "y": 231
+    },
+    {
+      "id": "GF_N263",
+      "type": "junction",
+      "floor": "GF",
+      "x": 857,
+      "y": 235
+    },
+    {
+      "id": "GF_N264",
+      "type": "junction",
+      "floor": "GF",
+      "x": 816,
+      "y": 235
+    },
+    {
+      "id": "GF_N265",
+      "type": "junction",
+      "floor": "GF",
+      "x": 763,
+      "y": 231
+    },
+    {
+      "id": "GF_N266",
+      "type": "junction",
+      "floor": "GF",
+      "x": 763,
+      "y": 199
+    },
+    {
+      "id": "GF_N267",
+      "type": "junction",
+      "floor": "GF",
+      "x": 737,
+      "y": 235
+    },
+    {
+      "id": "GF_N268",
+      "type": "junction",
+      "floor": "GF",
+      "x": 670,
+      "y": 232
+    },
+    {
+      "id": "GF_N269",
+      "type": "junction",
+      "floor": "GF",
+      "x": 621,
+      "y": 234
+    },
+    {
+      "id": "GF_N270",
+      "type": "junction",
+      "floor": "GF",
+      "x": 594,
+      "y": 224
+    },
+    {
+      "id": "GF_N271",
+      "type": "junction",
+      "floor": "GF",
+      "x": 545,
+      "y": 261
+    },
+    {
+      "id": "GF_N272",
+      "type": "junction",
+      "floor": "GF",
+      "x": 501,
+      "y": 265
+    },
+    {
+      "id": "GF_N279",
+      "type": "junction",
+      "floor": "GF",
+      "x": 333,
+      "y": 251
+    },
+    {
+      "id": "GF_N280",
+      "type": "junction",
+      "floor": "GF",
+      "x": 392,
+      "y": 265
+    },
+    {
+      "id": "GF_N281",
+      "type": "junction",
+      "floor": "GF",
+      "x": 423,
+      "y": 262
+    },
+    {
+      "id": "GF_N282",
+      "type": "junction",
+      "floor": "GF",
+      "x": 422,
+      "y": 215
+    },
+    {
+      "id": "GF_N283",
+      "type": "junction",
+      "floor": "GF",
+      "x": 973,
+      "y": 657
+    },
+    {
+      "id": "GF_N284",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1023,
+      "y": 658
+    },
+    {
+      "id": "GF_N285",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1025,
+      "y": 687
+    },
+    {
+      "id": "GF_N286",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1170,
+      "y": 667
+    },
+    {
+      "id": "GF_N287",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1288,
+      "y": 591
+    },
+    {
+      "id": "GF_N288",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1332,
+      "y": 573
+    },
+    {
+      "id": "GF_N289",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1212,
+      "y": 343
+    },
+    {
+      "id": "GF_N290",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1289,
+      "y": 342
+    },
+    {
+      "id": "GF_N291",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1081,
+      "y": 485
+    },
+    {
+      "id": "GF_N292",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1081,
+      "y": 549
+    },
+    {
+      "id": "GF_N293",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1110,
+      "y": 548
+    },
+    {
+      "id": "GF_N294",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1110,
+      "y": 488
+    },
+    {
+      "id": "GF_N295",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1003,
+      "y": 415
+    },
+    {
+      "id": "GF_N296",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1082,
+      "y": 272
+    },
+    {
+      "id": "GF_N297",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1081,
+      "y": 338
+    },
+    {
+      "id": "GF_N298",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1113,
+      "y": 267
+    },
+    {
+      "id": "GF_N299",
+      "type": "junction",
+      "floor": "GF",
+      "x": 920,
+      "y": 702
+    },
+    {
+      "id": "GF_N300",
+      "type": "junction",
+      "floor": "GF",
+      "x": 849,
+      "y": 701
+    },
+    {
+      "id": "GF_N301",
+      "type": "junction",
+      "floor": "GF",
+      "x": 821,
+      "y": 700
+    },
+    {
+      "id": "GF_N302",
+      "type": "junction",
+      "floor": "GF",
+      "x": 687,
+      "y": 701
+    },
+    {
+      "id": "GF_N303",
+      "type": "junction",
+      "floor": "GF",
+      "x": 460,
+      "y": 704
+    },
+    {
+      "id": "GF_N304",
+      "type": "junction",
+      "floor": "GF",
+      "x": 514,
+      "y": 556
+    },
+    {
+      "id": "GF_N305",
+      "type": "junction",
+      "floor": "GF",
+      "x": 653,
+      "y": 555
+    },
+    {
+      "id": "GF_N306",
+      "type": "junction",
+      "floor": "GF",
+      "x": 265,
+      "y": 373
+    },
+    {
+      "id": "GF_N307",
+      "type": "junction",
+      "floor": "GF",
+      "x": 266,
+      "y": 152
+    },
+    {
+      "id": "GF_N308",
+      "type": "junction",
+      "floor": "GF",
+      "x": 267,
+      "y": 206
+    },
+    {
+      "id": "GF_N309",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1004,
+      "y": 451
+    },
+    {
+      "id": "GF_N310",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1334,
+      "y": 545
+    },
+    {
+      "id": "GF_N312",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1336,
+      "y": 447
+    },
+    {
+      "id": "GF_N313",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1314,
+      "y": 401
+    },
+    {
+      "id": "GF_N314",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1334,
+      "y": 387
+    },
+    {
+      "id": "GF_N315",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1301,
+      "y": 562
+    },
+    {
+      "id": "GF_N316",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1369,
+      "y": 444
+    },
+    {
+      "id": "GF_N317",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1370,
+      "y": 493
+    },
+    {
+      "id": "GF_N318",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1260,
+      "y": 466
+    },
+    {
+      "id": "GF_N319",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1263,
+      "y": 513
+    },
+    {
+      "id": "GF_N320",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1259,
+      "y": 406
+    },
+    {
+      "id": "GF_N321",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1335,
+      "y": 504
+    },
+    {
+      "id": "GF_N322",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1259,
+      "y": 553
+    },
+    {
+      "id": "GF_N323",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1269,
+      "y": 575
+    },
+    {
+      "id": "GF_N324",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1286,
+      "y": 379
+    },
+    {
+      "id": "GF_N325",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1111,
+      "y": 619
+    },
+    {
+      "id": "GF_N326",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1171,
+      "y": 585
+    },
+    {
+      "id": "GF_N327",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1204,
+      "y": 585
+    },
+    {
+      "id": "GF_N328",
+      "type": "junction",
+      "floor": "GF",
+      "x": 1024,
+      "y": 620
+    },
+    {
+      "id": "GF_N329",
+      "type": "store_entrance",
+      "floor": "GF",
+      "x": 1326,
+      "y": 316
+    }
+  ],
+  "edges": [
+    {
+      "from": "GF_N147",
+      "to": "GF_N149",
+      "distance_px": 26.08
+    },
+    {
+      "from": "GF_N149",
+      "to": "GF_N152",
+      "distance_px": 20.62
+    },
+    {
+      "from": "GF_N149",
+      "to": "GF_N011",
+      "distance_px": 30.07
+    },
+    {
+      "from": "GF_N147",
+      "to": "GF_N151",
+      "distance_px": 19.7
+    },
+    {
+      "from": "GF_N150",
+      "to": "GF_N151",
+      "distance_px": 26.48
+    },
+    {
+      "from": "GF_N150",
+      "to": "GF_N103",
+      "distance_px": 19.03
+    },
+    {
+      "from": "GF_N152",
+      "to": "GF_N316",
+      "distance_px": 66.5294
+    },
+    {
+      "from": "GF_N316",
+      "to": "GF_N317",
+      "distance_px": 49.1507
+    },
+    {
+      "from": "GF_N317",
+      "to": "GF_N153",
+      "distance_px": 44.3699
+    },
+    {
+      "from": "GF_N153",
+      "to": "GF_N154",
+      "distance_px": 28.18
+    },
+    {
+      "from": "GF_N154",
+      "to": "GF_N288",
+      "distance_px": 27.9063
+    },
+    {
+      "from": "GF_N288",
+      "to": "GF_N287",
+      "distance_px": 48.0794
+    },
+    {
+      "from": "GF_N287",
+      "to": "GF_N155",
+      "distance_px": 39.7043
+    },
+    {
+      "from": "GF_N155",
+      "to": "GF_N157",
+      "distance_px": 41.73
+    },
+    {
+      "from": "GF_N157",
+      "to": "GF_N158",
+      "distance_px": 33.12
+    },
+    {
+      "from": "GF_N158",
+      "to": "GF_N286",
+      "distance_px": 35.892
+    },
+    {
+      "from": "GF_N286",
+      "to": "GF_N159",
+      "distance_px": 28.228
+    },
+    {
+      "from": "GF_N159",
+      "to": "GF_N163",
+      "distance_px": 30.15
+    },
+    {
+      "from": "GF_N163",
+      "to": "GF_N164",
+      "distance_px": 43.01
+    },
+    {
+      "from": "GF_N164",
+      "to": "GF_N285",
+      "distance_px": 47.1236
+    },
+    {
+      "from": "GF_N285",
+      "to": "GF_N166",
+      "distance_px": 48.3964
+    },
+    {
+      "from": "GF_N166",
+      "to": "GF_N168",
+      "distance_px": 23.09
+    },
+    {
+      "from": "GF_N168",
+      "to": "GF_N299",
+      "distance_px": 34.7511
+    },
+    {
+      "from": "GF_N299",
+      "to": "GF_N300",
+      "distance_px": 71.0114
+    },
+    {
+      "from": "GF_N300",
+      "to": "GF_N301",
+      "distance_px": 28.3869
+    },
+    {
+      "from": "GF_N301",
+      "to": "GF_N167",
+      "distance_px": 56.8906
+    },
+    {
+      "from": "GF_N167",
+      "to": "GF_N302",
+      "distance_px": 77.5221
+    },
+    {
+      "from": "GF_N302",
+      "to": "GF_N171",
+      "distance_px": 88.5279
+    },
+    {
+      "from": "GF_N171",
+      "to": "GF_N169",
+      "distance_px": 69.07
+    },
+    {
+      "from": "GF_N171",
+      "to": "GF_N172",
+      "distance_px": 149.0
+    },
+    {
+      "from": "GF_N172",
+      "to": "GF_N305",
+      "distance_px": 55.4104
+    },
+    {
+      "from": "GF_N305",
+      "to": "GF_N173",
+      "distance_px": 47.6096
+    },
+    {
+      "from": "GF_N172",
+      "to": "GF_N304",
+      "distance_px": 83.5281
+    },
+    {
+      "from": "GF_N304",
+      "to": "GF_N174",
+      "distance_px": 42.5119
+    },
+    {
+      "from": "GF_N174",
+      "to": "GF_N175",
+      "distance_px": 58.42
+    },
+    {
+      "from": "GF_N158",
+      "to": "GF_N027",
+      "distance_px": 22.8
+    },
+    {
+      "from": "GF_N157",
+      "to": "GF_N026",
+      "distance_px": 19.7
+    },
+    {
+      "from": "GF_N155",
+      "to": "GF_N025",
+      "distance_px": 19.92
+    },
+    {
+      "from": "GF_N153",
+      "to": "GF_N014",
+      "distance_px": 22.83
+    },
+    {
+      "from": "GF_N154",
+      "to": "GF_N015",
+      "distance_px": 21.21
+    },
+    {
+      "from": "GF_N153",
+      "to": "GF_N013",
+      "distance_px": 24.6
+    },
+    {
+      "from": "GF_N167",
+      "to": "GF_N045",
+      "distance_px": 20.62
+    },
+    {
+      "from": "GF_N164",
+      "to": "GF_N031",
+      "distance_px": 19.1
+    },
+    {
+      "from": "GF_N164",
+      "to": "GF_N030",
+      "distance_px": 20.62
+    },
+    {
+      "from": "GF_N163",
+      "to": "GF_N029",
+      "distance_px": 19.42
+    },
+    {
+      "from": "GF_N159",
+      "to": "GF_N029",
+      "distance_px": 23.02
+    },
+    {
+      "from": "GF_N147",
+      "to": "GF_N181",
+      "distance_px": 41.44
+    },
+    {
+      "from": "GF_N181",
+      "to": "GF_N188",
+      "distance_px": 36.0
+    },
+    {
+      "from": "GF_N181",
+      "to": "GF_N290",
+      "distance_px": 28.4522
+    },
+    {
+      "from": "GF_N290",
+      "to": "GF_N185",
+      "distance_px": 28.6278
+    },
+    {
+      "from": "GF_N188",
+      "to": "GF_N324",
+      "distance_px": 31.5015
+    },
+    {
+      "from": "GF_N324",
+      "to": "GF_N187",
+      "distance_px": 23.6485
+    },
+    {
+      "from": "GF_N185",
+      "to": "GF_N187",
+      "distance_px": 37.05
+    },
+    {
+      "from": "GF_N184",
+      "to": "GF_N185",
+      "distance_px": 19.1
+    },
+    {
+      "from": "GF_N187",
+      "to": "GF_N186",
+      "distance_px": 21.21
+    },
+    {
+      "from": "GF_N184",
+      "to": "GF_N186",
+      "distance_px": 38.0
+    },
+    {
+      "from": "GF_N186",
+      "to": "GF_N189",
+      "distance_px": 42.05
+    },
+    {
+      "from": "GF_N189",
+      "to": "GF_N190",
+      "distance_px": 45.01
+    },
+    {
+      "from": "GF_N184",
+      "to": "GF_N289",
+      "distance_px": 28.7671
+    },
+    {
+      "from": "GF_N289",
+      "to": "GF_N182",
+      "distance_px": 29.6529
+    },
+    {
+      "from": "GF_N182",
+      "to": "GF_N191",
+      "distance_px": 31.32
+    },
+    {
+      "from": "GF_N191",
+      "to": "GF_N192",
+      "distance_px": 21.26
+    },
+    {
+      "from": "GF_N192",
+      "to": "GF_N193",
+      "distance_px": 26.4
+    },
+    {
+      "from": "GF_N199",
+      "to": "GF_N298",
+      "distance_px": 26.8165
+    },
+    {
+      "from": "GF_N298",
+      "to": "GF_N193",
+      "distance_px": 36.2535
+    },
+    {
+      "from": "GF_N199",
+      "to": "GF_N105",
+      "distance_px": 21.26
+    },
+    {
+      "from": "GF_N105",
+      "to": "GF_N205",
+      "distance_px": 21.26
+    },
+    {
+      "from": "GF_N205",
+      "to": "GF_N296",
+      "distance_px": 29.6836
+    },
+    {
+      "from": "GF_N296",
+      "to": "GF_N207",
+      "distance_px": 34.3264
+    },
+    {
+      "from": "GF_N207",
+      "to": "GF_N193",
+      "distance_px": 32.14
+    },
+    {
+      "from": "GF_N207",
+      "to": "GF_N297",
+      "distance_px": 31.6523
+    },
+    {
+      "from": "GF_N297",
+      "to": "GF_N208",
+      "distance_px": 41.4577
+    },
+    {
+      "from": "GF_N208",
+      "to": "GF_N217",
+      "distance_px": 34.06
+    },
+    {
+      "from": "GF_N193",
+      "to": "GF_N217",
+      "distance_px": 78.03
+    },
+    {
+      "from": "GF_N217",
+      "to": "GF_N190",
+      "distance_px": 41.0
+    },
+    {
+      "from": "GF_N191",
+      "to": "GF_N190",
+      "distance_px": 51.01
+    },
+    {
+      "from": "GF_N208",
+      "to": "GF_N216",
+      "distance_px": 71.06
+    },
+    {
+      "from": "GF_N221",
+      "to": "GF_N216",
+      "distance_px": 30.08
+    },
+    {
+      "from": "GF_N217",
+      "to": "GF_N221",
+      "distance_px": 80.06
+    },
+    {
+      "from": "GF_N222",
+      "to": "GF_N294",
+      "distance_px": 28.2857
+    },
+    {
+      "from": "GF_N294",
+      "to": "GF_N221",
+      "distance_px": 26.7143
+    },
+    {
+      "from": "GF_N216",
+      "to": "GF_N291",
+      "distance_px": 34.6842
+    },
+    {
+      "from": "GF_N291",
+      "to": "GF_N224",
+      "distance_px": 28.3458
+    },
+    {
+      "from": "GF_N224",
+      "to": "GF_N222",
+      "distance_px": 30.15
+    },
+    {
+      "from": "GF_N222",
+      "to": "GF_N293",
+      "distance_px": 31.6279
+    },
+    {
+      "from": "GF_N293",
+      "to": "GF_N225",
+      "distance_px": 36.3721
+    },
+    {
+      "from": "GF_N224",
+      "to": "GF_N292",
+      "distance_px": 36.2863
+    },
+    {
+      "from": "GF_N292",
+      "to": "GF_N226",
+      "distance_px": 34.7437
+    },
+    {
+      "from": "GF_N225",
+      "to": "GF_N326",
+      "distance_px": 61.497
+    },
+    {
+      "from": "GF_N326",
+      "to": "GF_N327",
+      "distance_px": 33.1566
+    },
+    {
+      "from": "GF_N327",
+      "to": "GF_N227",
+      "distance_px": 39.3564
+    },
+    {
+      "from": "GF_N227",
+      "to": "GF_N155",
+      "distance_px": 21.19
+    },
+    {
+      "from": "GF_N225",
+      "to": "GF_N325",
+      "distance_px": 34.7486
+    },
+    {
+      "from": "GF_N325",
+      "to": "GF_N163",
+      "distance_px": 47.2714
+    },
+    {
+      "from": "GF_N225",
+      "to": "GF_N226",
+      "distance_px": 28.0
+    },
+    {
+      "from": "GF_N228",
+      "to": "GF_N226",
+      "distance_px": 58.69
+    },
+    {
+      "from": "GF_N228",
+      "to": "GF_N229",
+      "distance_px": 59.84
+    },
+    {
+      "from": "GF_N230",
+      "to": "GF_N229",
+      "distance_px": 111.2
+    },
+    {
+      "from": "GF_N230",
+      "to": "GF_N231",
+      "distance_px": 62.1
+    },
+    {
+      "from": "GF_N230",
+      "to": "GF_N233",
+      "distance_px": 119.22
+    },
+    {
+      "from": "GF_N233",
+      "to": "GF_N234",
+      "distance_px": 61.68
+    },
+    {
+      "from": "GF_N234",
+      "to": "GF_N235",
+      "distance_px": 43.97
+    },
+    {
+      "from": "GF_N146",
+      "to": "GF_N234",
+      "distance_px": 27.31
+    },
+    {
+      "from": "GF_N235",
+      "to": "GF_N236",
+      "distance_px": 32.2
+    },
+    {
+      "from": "GF_N236",
+      "to": "GF_N237",
+      "distance_px": 26.08
+    },
+    {
+      "from": "GF_N237",
+      "to": "GF_N167",
+      "distance_px": 42.45
+    },
+    {
+      "from": "GF_N146",
+      "to": "GF_N235",
+      "distance_px": 29.41
+    },
+    {
+      "from": "GF_N145",
+      "to": "GF_N295",
+      "distance_px": 31.4488
+    },
+    {
+      "from": "GF_N295",
+      "to": "GF_N309",
+      "distance_px": 36.1544
+    },
+    {
+      "from": "GF_N309",
+      "to": "GF_N231",
+      "distance_px": 31.4068
+    },
+    {
+      "from": "GF_N145",
+      "to": "GF_N208",
+      "distance_px": 76.16
+    },
+    {
+      "from": "GF_N175",
+      "to": "GF_N239",
+      "distance_px": 56.08
+    },
+    {
+      "from": "GF_N238",
+      "to": "GF_N303",
+      "distance_px": 97.7757
+    },
+    {
+      "from": "GF_N303",
+      "to": "GF_N169",
+      "distance_px": 69.2943
+    },
+    {
+      "from": "GF_N238",
+      "to": "GF_N239",
+      "distance_px": 134.06
+    },
+    {
+      "from": "GF_N239",
+      "to": "GF_N240",
+      "distance_px": 41.44
+    },
+    {
+      "from": "GF_N240",
+      "to": "GF_N241",
+      "distance_px": 65.07
+    },
+    {
+      "from": "GF_N144",
+      "to": "GF_N241",
+      "distance_px": 22.09
+    },
+    {
+      "from": "GF_N144",
+      "to": "GF_N242",
+      "distance_px": 20.25
+    },
+    {
+      "from": "GF_N252",
+      "to": "GF_N242",
+      "distance_px": 33.54
+    },
+    {
+      "from": "GF_N252",
+      "to": "GF_N243",
+      "distance_px": 40.8
+    },
+    {
+      "from": "GF_N252",
+      "to": "GF_N247",
+      "distance_px": 52.77
+    },
+    {
+      "from": "GF_N252",
+      "to": "GF_N144",
+      "distance_px": 42.06
+    },
+    {
+      "from": "GF_N243",
+      "to": "GF_N306",
+      "distance_px": 48.9479
+    },
+    {
+      "from": "GF_N306",
+      "to": "GF_N246",
+      "distance_px": 60.0921
+    },
+    {
+      "from": "GF_N247",
+      "to": "GF_N248",
+      "distance_px": 81.02
+    },
+    {
+      "from": "GF_N249",
+      "to": "GF_N248",
+      "distance_px": 76.11
+    },
+    {
+      "from": "GF_N249",
+      "to": "GF_N250",
+      "distance_px": 43.84
+    },
+    {
+      "from": "GF_N250",
+      "to": "GF_N308",
+      "distance_px": 20.5622
+    },
+    {
+      "from": "GF_N308",
+      "to": "GF_N307",
+      "distance_px": 53.8118
+    },
+    {
+      "from": "GF_N307",
+      "to": "GF_N251",
+      "distance_px": 42.646
+    },
+    {
+      "from": "GF_N246",
+      "to": "GF_N052",
+      "distance_px": 19.85
+    },
+    {
+      "from": "GF_N145",
+      "to": "GF_N255",
+      "distance_px": 24.02
+    },
+    {
+      "from": "GF_N255",
+      "to": "GF_N256",
+      "distance_px": 27.2
+    },
+    {
+      "from": "GF_N256",
+      "to": "GF_N257",
+      "distance_px": 36.35
+    },
+    {
+      "from": "GF_N257",
+      "to": "GF_N258",
+      "distance_px": 46.04
+    },
+    {
+      "from": "GF_N258",
+      "to": "GF_N259",
+      "distance_px": 35.06
+    },
+    {
+      "from": "GF_N259",
+      "to": "GF_N260",
+      "distance_px": 39.05
+    },
+    {
+      "from": "GF_N260",
+      "to": "GF_N261",
+      "distance_px": 24.7
+    },
+    {
+      "from": "GF_N261",
+      "to": "GF_N262",
+      "distance_px": 23.43
+    },
+    {
+      "from": "GF_N261",
+      "to": "GF_N062",
+      "distance_px": 42.19
+    },
+    {
+      "from": "GF_N262",
+      "to": "GF_N263",
+      "distance_px": 42.19
+    },
+    {
+      "from": "GF_N263",
+      "to": "GF_N264",
+      "distance_px": 41.0
+    },
+    {
+      "from": "GF_N264",
+      "to": "GF_N265",
+      "distance_px": 53.15
+    },
+    {
+      "from": "GF_N265",
+      "to": "GF_N267",
+      "distance_px": 26.31
+    },
+    {
+      "from": "GF_N265",
+      "to": "GF_N266",
+      "distance_px": 32.0
+    },
+    {
+      "from": "GF_N266",
+      "to": "GF_N061",
+      "distance_px": 20.62
+    },
+    {
+      "from": "GF_N267",
+      "to": "GF_N268",
+      "distance_px": 67.07
+    },
+    {
+      "from": "GF_N268",
+      "to": "GF_N269",
+      "distance_px": 49.04
+    },
+    {
+      "from": "GF_N269",
+      "to": "GF_N270",
+      "distance_px": 28.79
+    },
+    {
+      "from": "GF_N270",
+      "to": "GF_N060",
+      "distance_px": 39.46
+    },
+    {
+      "from": "GF_N270",
+      "to": "GF_N271",
+      "distance_px": 61.4
+    },
+    {
+      "from": "GF_N271",
+      "to": "GF_N272",
+      "distance_px": 44.18
+    },
+    {
+      "from": "GF_N272",
+      "to": "GF_N281",
+      "distance_px": 78.06
+    },
+    {
+      "from": "GF_N281",
+      "to": "GF_N282",
+      "distance_px": 47.01
+    },
+    {
+      "from": "GF_N056",
+      "to": "GF_N282",
+      "distance_px": 49.16
+    },
+    {
+      "from": "GF_N281",
+      "to": "GF_N280",
+      "distance_px": 31.14
+    },
+    {
+      "from": "GF_N280",
+      "to": "GF_N279",
+      "distance_px": 60.64
+    },
+    {
+      "from": "GF_N249",
+      "to": "GF_N279",
+      "distance_px": 35.51
+    },
+    {
+      "from": "GF_N229",
+      "to": "GF_N283",
+      "distance_px": 49.5
+    },
+    {
+      "from": "GF_N283",
+      "to": "GF_N166",
+      "distance_px": 39.2
+    },
+    {
+      "from": "GF_N228",
+      "to": "GF_N328",
+      "distance_px": 22.101
+    },
+    {
+      "from": "GF_N328",
+      "to": "GF_N284",
+      "distance_px": 37.929
+    },
+    {
+      "from": "GF_N111",
+      "to": "GF_N189",
+      "distance_px": 20.0
+    },
+    {
+      "from": "GF_N189",
+      "to": "GF_N114",
+      "distance_px": 22.47
+    },
+    {
+      "from": "GF_N113",
+      "to": "GF_N190",
+      "distance_px": 21.21
+    },
+    {
+      "from": "GF_N112",
+      "to": "GF_N186",
+      "distance_px": 20.12
+    },
+    {
+      "from": "GF_N115",
+      "to": "GF_N290",
+      "distance_px": 18.44
+    },
+    {
+      "from": "GF_N287",
+      "to": "GF_N023",
+      "distance_px": 19.7
+    },
+    {
+      "from": "GF_N287",
+      "to": "GF_N022",
+      "distance_px": 28.23
+    },
+    {
+      "from": "GF_N024",
+      "to": "GF_N287",
+      "distance_px": 28.23
+    },
+    {
+      "from": "GF_N288",
+      "to": "GF_N016",
+      "distance_px": 19.42
+    },
+    {
+      "from": "GF_N286",
+      "to": "GF_N028",
+      "distance_px": 17.12
+    },
+    {
+      "from": "GF_N285",
+      "to": "GF_N032",
+      "distance_px": 24.84
+    },
+    {
+      "from": "GF_N032",
+      "to": "GF_N166",
+      "distance_px": 29.83
+    },
+    {
+      "from": "GF_N168",
+      "to": "GF_N039",
+      "distance_px": 22.83
+    },
+    {
+      "from": "GF_N299",
+      "to": "GF_N039",
+      "distance_px": 19.21
+    },
+    {
+      "from": "GF_N040",
+      "to": "GF_N299",
+      "distance_px": 22.2
+    },
+    {
+      "from": "GF_N300",
+      "to": "GF_N041",
+      "distance_px": 21.26
+    },
+    {
+      "from": "GF_N300",
+      "to": "GF_N043",
+      "distance_px": 17.8
+    },
+    {
+      "from": "GF_N300",
+      "to": "GF_N148",
+      "distance_px": 30.61
+    },
+    {
+      "from": "GF_N301",
+      "to": "GF_N044",
+      "distance_px": 20.52
+    },
+    {
+      "from": "GF_N302",
+      "to": "GF_N046",
+      "distance_px": 27.31
+    },
+    {
+      "from": "GF_N302",
+      "to": "GF_N047",
+      "distance_px": 25.55
+    },
+    {
+      "from": "GF_N171",
+      "to": "GF_N170",
+      "distance_px": 37.12
+    },
+    {
+      "from": "GF_N169",
+      "to": "GF_N049",
+      "distance_px": 36.14
+    },
+    {
+      "from": "GF_N303",
+      "to": "GF_N050",
+      "distance_px": 23.6
+    },
+    {
+      "from": "GF_N238",
+      "to": "GF_N253",
+      "distance_px": 27.46
+    },
+    {
+      "from": "GF_N253",
+      "to": "GF_N254",
+      "distance_px": 114.0
+    },
+    {
+      "from": "GF_N063",
+      "to": "GF_N254",
+      "distance_px": 22.02
+    },
+    {
+      "from": "GF_N064",
+      "to": "GF_N175",
+      "distance_px": 23.85
+    },
+    {
+      "from": "GF_N065",
+      "to": "GF_N304",
+      "distance_px": 21.4
+    },
+    {
+      "from": "GF_N066",
+      "to": "GF_N305",
+      "distance_px": 23.32
+    },
+    {
+      "from": "GF_N305",
+      "to": "GF_N067",
+      "distance_px": 26.42
+    },
+    {
+      "from": "GF_N173",
+      "to": "GF_N068",
+      "distance_px": 23.02
+    },
+    {
+      "from": "GF_N054",
+      "to": "GF_N307",
+      "distance_px": 16.28
+    },
+    {
+      "from": "GF_N053",
+      "to": "GF_N308",
+      "distance_px": 16.28
+    },
+    {
+      "from": "GF_N051",
+      "to": "GF_N306",
+      "distance_px": 17.03
+    },
+    {
+      "from": "GF_N200",
+      "to": "GF_N205",
+      "distance_px": 30.41
+    },
+    {
+      "from": "GF_N201",
+      "to": "GF_N296",
+      "distance_px": 30.41
+    },
+    {
+      "from": "GF_N202",
+      "to": "GF_N207",
+      "distance_px": 38.08
+    },
+    {
+      "from": "GF_N203",
+      "to": "GF_N207",
+      "distance_px": 31.0
+    },
+    {
+      "from": "GF_N204",
+      "to": "GF_N297",
+      "distance_px": 26.02
+    },
+    {
+      "from": "GF_N199",
+      "to": "GF_N195",
+      "distance_px": 22.0
+    },
+    {
+      "from": "GF_N298",
+      "to": "GF_N196",
+      "distance_px": 21.59
+    },
+    {
+      "from": "GF_N193",
+      "to": "GF_N097",
+      "distance_px": 20.0
+    },
+    {
+      "from": "GF_N192",
+      "to": "GF_N106",
+      "distance_px": 26.02
+    },
+    {
+      "from": "GF_N191",
+      "to": "GF_N106",
+      "distance_px": 20.81
+    },
+    {
+      "from": "GF_N098",
+      "to": "GF_N182",
+      "distance_px": 23.6
+    },
+    {
+      "from": "GF_N099",
+      "to": "GF_N289",
+      "distance_px": 20.62
+    },
+    {
+      "from": "GF_N100",
+      "to": "GF_N184",
+      "distance_px": 21.59
+    },
+    {
+      "from": "GF_N101",
+      "to": "GF_N185",
+      "distance_px": 22.8
+    },
+    {
+      "from": "GF_N102",
+      "to": "GF_N290",
+      "distance_px": 17.46
+    },
+    {
+      "from": "GF_N143",
+      "to": "GF_N189",
+      "distance_px": 26.0
+    },
+    {
+      "from": "GF_N129",
+      "to": "GF_N186",
+      "distance_px": 20.25
+    },
+    {
+      "from": "GF_N142",
+      "to": "GF_N217",
+      "distance_px": 25.55
+    },
+    {
+      "from": "GF_N221",
+      "to": "GF_N218",
+      "distance_px": 23.41
+    },
+    {
+      "from": "GF_N294",
+      "to": "GF_N219",
+      "distance_px": 26.08
+    },
+    {
+      "from": "GF_N222",
+      "to": "GF_N220",
+      "distance_px": 30.61
+    },
+    {
+      "from": "GF_N225",
+      "to": "GF_N138",
+      "distance_px": 23.6
+    },
+    {
+      "from": "GF_N292",
+      "to": "GF_N214",
+      "distance_px": 28.64
+    },
+    {
+      "from": "GF_N224",
+      "to": "GF_N213",
+      "distance_px": 23.41
+    },
+    {
+      "from": "GF_N291",
+      "to": "GF_N211",
+      "distance_px": 18.68
+    },
+    {
+      "from": "GF_N210",
+      "to": "GF_N216",
+      "distance_px": 20.12
+    },
+    {
+      "from": "GF_N210",
+      "to": "GF_N291",
+      "distance_px": 31.06
+    },
+    {
+      "from": "GF_N291",
+      "to": "GF_N212",
+      "distance_px": 27.02
+    },
+    {
+      "from": "GF_N215",
+      "to": "GF_N226",
+      "distance_px": 28.23
+    },
+    {
+      "from": "GF_N083",
+      "to": "GF_N228",
+      "distance_px": 21.26
+    },
+    {
+      "from": "GF_N082",
+      "to": "GF_N229",
+      "distance_px": 28.16
+    },
+    {
+      "from": "GF_N081",
+      "to": "GF_N230",
+      "distance_px": 26.08
+    },
+    {
+      "from": "GF_N231",
+      "to": "GF_N093",
+      "distance_px": 26.68
+    },
+    {
+      "from": "GF_N295",
+      "to": "GF_N091",
+      "distance_px": 25.08
+    },
+    {
+      "from": "GF_N152",
+      "to": "GF_N314",
+      "distance_px": 34.48
+    },
+    {
+      "from": "GF_N314",
+      "to": "GF_N188",
+      "distance_px": 19.72
+    },
+    {
+      "from": "GF_N314",
+      "to": "GF_N312",
+      "distance_px": 60.03
+    },
+    {
+      "from": "GF_N312",
+      "to": "GF_N316",
+      "distance_px": 33.14
+    },
+    {
+      "from": "GF_N312",
+      "to": "GF_N321",
+      "distance_px": 56.8745
+    },
+    {
+      "from": "GF_N321",
+      "to": "GF_N310",
+      "distance_px": 41.1455
+    },
+    {
+      "from": "GF_N310",
+      "to": "GF_N154",
+      "distance_px": 29.41
+    },
+    {
+      "from": "GF_N310",
+      "to": "GF_N315",
+      "distance_px": 37.12
+    },
+    {
+      "from": "GF_N315",
+      "to": "GF_N323",
+      "distance_px": 34.7678
+    },
+    {
+      "from": "GF_N323",
+      "to": "GF_N227",
+      "distance_px": 27.0822
+    },
+    {
+      "from": "GF_N120",
+      "to": "GF_N315",
+      "distance_px": 24.52
+    },
+    {
+      "from": "GF_N320",
+      "to": "GF_N318",
+      "distance_px": 60.01
+    },
+    {
+      "from": "GF_N320",
+      "to": "GF_N187",
+      "distance_px": 25.18
+    },
+    {
+      "from": "GF_N318",
+      "to": "GF_N319",
+      "distance_px": 47.1
+    },
+    {
+      "from": "GF_N119",
+      "to": "GF_N321",
+      "distance_px": 16.4
+    },
+    {
+      "from": "GF_N322",
+      "to": "GF_N323",
+      "distance_px": 24.17
+    },
+    {
+      "from": "GF_N322",
+      "to": "GF_N319",
+      "distance_px": 40.2
+    },
+    {
+      "from": "GF_N323",
+      "to": "GF_N287",
+      "distance_px": 24.84
+    },
+    {
+      "from": "GF_N315",
+      "to": "GF_N287",
+      "distance_px": 31.78
+    },
+    {
+      "from": "GF_N127",
+      "to": "GF_N226",
+      "distance_px": 26.63
+    },
+    {
+      "from": "GF_N118",
+      "to": "GF_N312",
+      "distance_px": 21.26
+    },
+    {
+      "from": "GF_N313",
+      "to": "GF_N314",
+      "distance_px": 24.41
+    },
+    {
+      "from": "GF_N116",
+      "to": "GF_N324",
+      "distance_px": 22.02
+    },
+    {
+      "from": "GF_N325",
+      "to": "GF_N126",
+      "distance_px": 26.4
+    },
+    {
+      "from": "GF_N325",
+      "to": "GF_N125",
+      "distance_px": 13.34
+    },
+    {
+      "from": "GF_N124",
+      "to": "GF_N325",
+      "distance_px": 26.83
+    },
+    {
+      "from": "GF_N071",
+      "to": "GF_N230",
+      "distance_px": 20.81
+    },
+    {
+      "from": "GF_N234",
+      "to": "GF_N069",
+      "distance_px": 19.1
+    },
+    {
+      "from": "GF_N235",
+      "to": "GF_N070",
+      "distance_px": 21.02
+    },
+    {
+      "from": "GF_N130",
+      "to": "GF_N227",
+      "distance_px": 19.03
+    },
+    {
+      "from": "GF_N132",
+      "to": "GF_N327",
+      "distance_px": 23.43
+    },
+    {
+      "from": "GF_N133",
+      "to": "GF_N327",
+      "distance_px": 15.13
+    },
+    {
+      "from": "GF_N135",
+      "to": "GF_N326",
+      "distance_px": 18.03
+    },
+    {
+      "from": "GF_N137",
+      "to": "GF_N326",
+      "distance_px": 19.72
+    },
+    {
+      "from": "GF_N321",
+      "to": "GF_N317",
+      "distance_px": 36.69
+    },
+    {
+      "from": "GF_N072",
+      "to": "GF_N229",
+      "distance_px": 19.1
+    },
+    {
+      "from": "GF_N128",
+      "to": "GF_N328",
+      "distance_px": 18.87
+    },
+    {
+      "from": "GF_N128",
+      "to": "GF_N284",
+      "distance_px": 23.77
+    },
+    {
+      "from": "GF_N107",
+      "to": "GF_N190",
+      "distance_px": 23.02
+    },
+    {
+      "from": "GF_N309",
+      "to": "GF_N092",
+      "distance_px": 27.17
+    },
+    {
+      "from": "GF_N329",
+      "to": "GF_N151",
+      "distance_px": 24.02
+    }
+  ]
+}
